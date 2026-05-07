@@ -1,0 +1,236 @@
+{
+  "topics": {
+    "sango": {
+      "id": "sango",
+      "title": "Sango, The Thunder King",
+      "keywords": ["sango", "shango", "thunder", "lightning", "jakuta", "oyo", "storm", "fire", "twins", "ibeji"],
+      "summary": "Sango was a harsh and violent Alaafin of the Oyo Empire, a warrior king so powerful that after his tragic death, he was deified as the Orisha of thunder and lightning.",
+      "key_facts": [
+        "Sango was a real historical king of Oyo before he became a deity.",
+        "He sprang from the body of the Orisha Yemoja.",
+        "He relentlessly searched for power through magic, eventually obtaining dominion over thunder.",
+        "His power destroyed his own palace, killing his wife and children inside.",
+        "Dismayed by his catastrophic mistake, he fled his kingdom and hanged himself.",
+        "He was the husband of Oshun, and together they produced the sacred Ibeji (twins)."
+      ],
+      "tensions": [
+        "A king so desperate for power that his magic destroyed the family he loved.",
+        "The tragedy of a mortal ruler who could not control the divine forces he summoned.",
+        "He chose death by his own hand over living with the dishonor of his actions."
+      ],
+      "proverbs": [
+        {
+          "yoruba": "Iná jó, Sàngó ní ìdáríjì",
+          "english": "When fire burns, Sango begs forgiveness",
+          "meaning": "Even the most powerful forces must reckon with the consequences of their strength."
+        }
+      ],
+      "story_hook": "A king who could call lightning from the sky lost everything to a single flame he could not control. How does a god fall?",
+      "illustration_cue": "elder_intense",
+      "audio_cue": "thunder_drums"
+    },
+    "olodumare": {
+      "id": "olodumare",
+      "title": "Olofin, The Supreme Creator",
+      "keywords": ["olofin", "olodumare", "olorun", "supreme", "creator", "universe", "ase", "emi", "ashay", "god"],
+      "summary": "The genderless, all-knowing, and eternal Supreme Being who crafted the universe, invented day and night, and breathed life into every living thing.",
+      "key_facts": [
+        "Olofin crafted the universe and lives in the distant heavenly realm (Orun).",
+        "They gave Ase (divine energy) to all objects and Emi (the breath of life) to all living things.",
+        "Olofin created the Orisha to act as intermediaries because they did not want to manage every living thing directly.",
+        "When the Orisha rebelled, Olofin simply held back the rain, proving their supreme power through silence rather than violence."
+      ],
+      "tensions": [
+        "A creator so vast and powerful that they are too distant to hear the direct cries of humanity.",
+        "The rebellion of the lesser gods who thought they could rule the earth without the Supreme Being's influence."
+      ],
+      "proverbs": [
+        {
+          "yoruba": "Àìgbagbọ́ nínú Ọlọ́run ni ìbẹ̀rẹ̀ wèrè",
+          "english": "Disbelief in God is the beginning of madness",
+          "meaning": "True wisdom begins with acknowledging the supreme force that holds the universe together."
+        }
+      ],
+      "story_hook": "Before there was land, before there were gods, there was a single breath that gave energy to the darkness.",
+      "illustration_cue": "elder_reverent",
+      "audio_cue": "ambient_wind"
+    },
+    "obatala": {
+      "id": "obatala",
+      "title": "Obatala, The Creator of Forms",
+      "keywords": ["obatala", "clay", "creation", "land", "chain", "gold chain", "palm wine", "drunk", "ile-ife", "sand"],
+      "summary": "The primordial Orisha who requested permission to create land on Earth and was tasked with molding the first human beings out of clay.",
+      "key_facts": [
+        "Obatala used a long gold chain forged from the spare gold of other gods to climb down from the sky.",
+        "He poured sand from a snail shell and dropped a chicken, which scattered the sand to create landmasses.",
+        "He planted a date palm nut that sprouted instantly, marking the spot of Ile-Ife.",
+        "He got drunk on palm wine and molded imperfect humans with missing limbs or bends.",
+        "Upon seeing his mistake, he vowed never to drink again and became the protector of humans with physical differences."
+      ],
+      "tensions": [
+        "A god's drunken mistake forever altered the physical form of humanity.",
+        "The deep remorse of a creator who must spend eternity protecting the broken creations he made."
+      ],
+      "proverbs": [
+        {
+          "yoruba": "Ènìyàn ni ère Ọlọ́run",
+          "english": "Human is God's image",
+          "meaning": "Every person, regardless of their physical form, carries the divine breath."
+        }
+      ],
+      "story_hook": "We are all molded from the same earth, but it was a god's drunken mistake that taught the heavens compassion.",
+      "illustration_cue": "elder_sculpting",
+      "audio_cue": "clay_shaping_sounds"
+    },
+    "oshun": {
+      "id": "oshun",
+      "title": "Oshun, The River of Sacrifice",
+      "keywords": ["oshun", "osun", "water", "river", "peacock", "vulture", "rain", "beauty", "sacrifice", "sweet waters"],
+      "summary": "The youngest of the Orisha, who rules the sweet waters. She saved the world from a devastating drought by sacrificing her unmatched beauty to reach the Supreme Creator.",
+      "key_facts": [
+        "When Olofin withheld the rain, the other gods were too weak or tired to reach the distant heavens.",
+        "Oshun turned into a beautiful peacock and flew toward the sun to plead for humanity.",
+        "The journey burned away all her magnificent feathers, turning her into an ugly vulture.",
+        "Olofin was so touched by her courage that he brought the rain back and decreed that only the vulture could communicate directly with him."
+      ],
+      "tensions": [
+        "The youngest and most doubted deity succeeding where the ancient, powerful gods failed.",
+        "Sacrificing the ultimate symbol of beauty and vanity for the survival of the earth."
+      ],
+      "proverbs": [
+        {
+          "yoruba": "Omi òtá inú, omi òtá ìta",
+          "english": "Water has no enemies",
+          "meaning": "Purity, necessity, and grace ultimately overcome all resistance."
+        }
+      ],
+      "story_hook": "What is the price of rain? Once, the most beautiful of the gods had to burn away her beauty so the world could drink.",
+      "illustration_cue": "elder_sorrowful",
+      "audio_cue": "flowing_river"
+    },
+    "eshu": {
+      "id": "eshu",
+      "title": "Eshu, The Divine Trickster",
+      "keywords": ["eshu", "trickster", "messenger", "crossroads", "doors", "flood", "ritual", "boundary"],
+      "summary": "The messenger Orisha who stands watch at the boundary between the realms of Orun (heaven) and Aye (earth), acting as the ultimate gatekeeper of prayers and sacrifices.",
+      "key_facts": [
+        "During the great flood, the humans begged Eshu, not the Supreme Creator, to intervene and save them.",
+        "He ferries notes and sacrifices across the threshold between the human and divine worlds.",
+        "If Eshu is not acknowledged first during a ritual, the ritual is useless."
+      ],
+      "tensions": [
+        "He holds the keys to heaven, yet he thrives on chaos and trickery.",
+        "Without his approval, the prayers of the most righteous humans will fall on deaf ears."
+      ],
+      "proverbs": [
+        {
+          "yoruba": "Bí a bá rúbọ, kí a fún Èṣù ní tirè",
+          "english": "If we sacrifice, let us give Eshu his portion",
+          "meaning": "Always acknowledge the gatekeeper, or your efforts will be scattered to the wind."
+        }
+      ],
+      "story_hook": "Before you speak to the heavens, you must pay the keeper of the gate. For if you ignore the trickster, your words are just wind.",
+      "illustration_cue": "elder_smiling_wryly",
+      "audio_cue": "fast_talking_drum"
+    },
+    "olokun": {
+      "id": "olokun",
+      "title": "Olokun, The Wrath of the Deep",
+      "keywords": ["olokun", "ocean", "sea", "water", "flood", "anger", "waves"],
+      "summary": "The formidable Orisha who ruled over the vast, primordial ocean before the earth was formed, known for unleashing a catastrophic flood when disrespected.",
+      "key_facts": [
+        "Olokun was furious that Obatala encroached upon her ocean to build land without asking for her permission.",
+        "She sent great, devastating waves to flood the new land and drown its inhabitants.",
+        "Her flood could only be stopped by Orunmila casting spells from Obatala's golden chain."
+      ],
+      "tensions": [
+        "A primordial force striking back violently when her domain is stolen.",
+        "The deep sea refusing to yield to the land without a war."
+      ],
+      "proverbs": [
+        {
+          "yoruba": "Olókun ni ó ni omi",
+          "english": "Olokun owns the waters",
+          "meaning": "Never forget who holds true dominion over the depths."
+        }
+      ],
+      "story_hook": "Before the earth, there was only the endless dark water. And the ocean does not forgive those who steal from it.",
+      "illustration_cue": "elder_stern",
+      "audio_cue": "crashing_waves"
+    },
+    "orunmila": {
+      "id": "orunmila",
+      "title": "Orunmila, The Witness of Destiny",
+      "keywords": ["orunmila", "prophecy", "divination", "ifa", "witness", "wisdom", "spells", "future"],
+      "summary": "The Orisha of prophecy and divination. Because of his immense wisdom, he was the sole witness when Olofin created the universe.",
+      "key_facts": [
+        "He sits on the boundary of heaven and earth, allowing mortals to connect to universal forces through divination.",
+        "He guided Obatala on exactly what items to gather to create the earth.",
+        "He is the one who climbed down the chain and cast spells to force Olokun's great flood to retreat."
+      ],
+      "tensions": [
+        "He knows the destiny of every living thing, but must watch mortals make their own mistakes.",
+        "The burden of holding the secrets of the universe's creation."
+      ],
+      "proverbs": [
+        {
+          "yoruba": "Ọgbọ́n ju agbára lọ",
+          "english": "Wisdom is greater than strength",
+          "meaning": "Foresight and knowledge can calm the greatest storms and defeat the strongest enemies."
+        }
+      ],
+      "story_hook": "There is only one pair of eyes that watched the universe being born. And those eyes can see the end of your story, too.",
+      "illustration_cue": "elder_casting_stones",
+      "audio_cue": "rattling_divination_chain"
+    },
+    "atunwa": {
+      "id": "atunwa",
+      "title": "Atunwa, The Cycle of Rebirth",
+      "keywords": ["atunwa", "reincarnation", "ancestors", "rebirth", "family", "bloodline", "death", "orun", "aye", "reborn", "return"],
+      "summary": "The deep Yoruba philosophy and belief system surrounding death and rebirth, ensuring that souls remain intricately tied to their bloodlines.",
+      "key_facts": [
+        "Unlike karmic reincarnation where a soul can return in any random form, Atunwa dictates you will be reborn strictly into your own family.",
+        "Someone who lived a long, good life joins the ancestors in Orun (heaven) and may be reincarnated by Olofin's plan.",
+        "Your actions in your current life directly determine your family's future fortune.",
+        "If you misbehave, you will not come back as an insect; you will be born into poverty as your own great-grandson."
+      ],
+      "tensions": [
+        "You are the architect of your own future suffering or prosperity.",
+        "The inescapable tie of blood; you can never outrun the legacy you leave behind."
+      ],
+      "proverbs": [
+        {
+          "yoruba": "Bí abá ti ṣe ni a ó rí, bí a bá gbin èbù, a ó kórè èbù",
+          "english": "As we do, so we shall see; if we plant yams, we shall harvest yams",
+          "meaning": "Your current actions are the seeds of your own future rebirth."
+        }
+      ],
+      "story_hook": "Do not weep too hard for the dead. If they lived well, they will simply return to us in the eyes of the next child.",
+      "illustration_cue": "elder_looking_at_stars",
+      "audio_cue": "soft_lullaby_humming"
+    },
+    "general": {
+      "id": "general",
+      "title": "The Yoruba Cosmos",
+      "keywords": ["yoruba", "culture", "nigeria", "ifa", "tradition", "history", "orisha", "orisa", "heritage"],
+      "summary": "The Yoruba people possess a vibrant, dynamic culture that stretches back almost 2,000 years, bound by Isese, the traditional philosophy and way of life.",
+      "key_facts": [
+        "The Yoruba cosmos is divided into two halves: Orun (the spiritual heavenly realm) and Aye (the tangible, visible world).",
+        "The culture is preserved through Isese, a philosophy and religion still practiced today.",
+        "There are roughly 50 million people speaking the language across Nigeria, Benin, Ghana, and Togo.",
+        "The mythology strongly influences Caribbean spiritual practices like Santeria and Candomble."
+      ],
+      "tensions": [],
+      "proverbs": [
+        {
+          "yoruba": "Ìwà l'ẹwà",
+          "english": "Character is beauty",
+          "meaning": "A person's true worth is measured by their character, not their appearance."
+        }
+      ],
+      "story_hook": "Before there were borders drawn on maps, there was a people whose stories shaped the heavens and the earth.",
+      "illustration_cue": "elder_calm",
+      "audio_cue": "ambient_fire"
+    }
+  }
+}
